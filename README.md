@@ -1,2 +1,2 @@
-# pms-backend-node
- backend node server for APIs 
+# MEDCARE
+ Medcare Backend Hackathon Project 
